@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @mohamadsalama102
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there 👋 I'm Mohammed 
+🌱 -developer in the design and development of innovative static and dynamic Desktop/mobile app using C# , WinForms , Xamarin Forms
+👀 - About
 
-<!---
-mohamadsalama102/mohamadsalama102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  Developer with 1 years of experience in the design and development of innovative static and dynamic Desktop/mobile app using C# , WinForms , Xamarin Forms Additional experience in the use of content management systems to allow clients to update content on their Desktop App . Very strong organizational, presentational, and communication skills to help plan out and pitch different Desktop/mobile app user interface styles that suited the client’s needs.
