@@ -6,8 +6,9 @@
 🌱 Experienced C# .NET Developer with 2 years of expertise in designing and developing innovative static and dynamic desktop and mobile applications using C#, WinForms, and Xamarin Forms. Skilled in implementing content management systems to enable clients to efficiently update content on their desktop applications. Strong organizational, presentational, and communication skills.
   </p>
   <h1>👀 EXPERIENCE</h1>
+<p dir="auto">
   
-  `DOTNET DEVELOPER - SAHABSOFT · FULL-TIME - Jan 2023 - Present`
+`DOTNET DEVELOPER - SAHABSOFT · FULL-TIME - Jan 2023 - Present`
  
 - Developing small- and large-scale desktop back-end services.
 - Troubleshooting, repairing defects and maintaining existing products.
@@ -23,3 +24,4 @@
 - Designed, implemented, and monitored web pages and sites for continuous improvement.
  
 `Skills: DevExpress · Microsoft SQL Server · WinForms ·  ASP .NET MVC-Xamarin Forms · Firebase · Google Maps · LINQ · OOP · Restful Api using ASP.net core · Entity Framework · EF core`
+  </p>
