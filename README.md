@@ -25,3 +25,18 @@
  
 `Skills: DevExpress · Microsoft SQL Server · WinForms ·  ASP .NET MVC-Xamarin Forms · Firebase · Google Maps · LINQ · OOP · Restful Api using ASP.net core · Entity Framework · EF core`
   </p>
+  <h1>👀 PROJECTS</h1>
+  <h4>MYPCR-PRO DESKTOP APP </h4> 
+  
+- An Electronic solution for PCR Laboratory sample tracking process from accessioning to resulting.
+- Dashboard for Realtime forecast for PCR Testing
+- Electronic Accessioning of Samples
+- Quick Search for PCR Sample status
+
+`Skills: DevExpress, Microsoft SQL Server LINQ, OOP, EF core, WinForms, Entity Framework`
+
+<h4>City University of Cairo</h4>
+<p>CUC University Website Development (<a href="https://cuc.edu.eg/">cuc.edu.eg</a>):
+I designed and developed the official website for CUC University, focusing on enhancing user experience and showcasing the unique identity of the institution. This project included a modern, responsive user interface compatible with various devices, as well as a flexible backend structure, enabling the university to efficiently update and manage content. Additionally, the website was optimized for performance, ensuring a fast and accessible experience for students, faculty, and visitors.</p>
+
+`Skills: Asp.net, .NET7,Html,CSS,Js, Microsoft SQL Server LINQ, OOP, EF core, WinForms, Entity Framework`
