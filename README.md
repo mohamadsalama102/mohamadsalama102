@@ -7,7 +7,7 @@
 🌱 Experienced C# .NET Developer with 2 years of expertise in designing and developing innovative static and dynamic desktop and mobile applications using C#, WinForms, and Xamarin Forms. Skilled in implementing content management systems to enable clients to efficiently update content on their desktop applications. Strong organizational, presentational, and communication skills.
   </p>
   
-[📄 Download My CV](./MohammedSalamaAwad.pdf)
+[📄 Download My CV](https://github.com/mohamadsalama102/mohamadsalama102/raw/main/MohammedSalamaAwad.pdf)
 
   <h1>👀 EXPERIENCE</h1>
 <p dir="auto">
