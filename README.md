@@ -4,8 +4,8 @@
 <h1> Hi there 👋 I'm Mohammed </h1> 
 
 <p dir="auto">
-🌱 Experienced C# .NET Developer with 2 years of expertise in designing and developing innovative static and dynamic desktop and mobile applications using C#, WinForms, and Xamarin Forms. Skilled in implementing content management systems to enable clients to efficiently update content on their desktop applications. Strong organizational, presentational, and communication skills.
-  </p>
+🌱 Results-driven Web Developer with 3+ years of hands-on experience in designing, developing, and maintaining web and desktop applications using ASP.NET, WinForms, .NET Core, and Xamarin. Strong background in building RESTful APIs, integrating databases, and ensuring software optimization and maintainability. Adept at problem-solving, writing clean and testable code, and continuously learning new technologies to deliver scalable and reliable solutions.
+</p>
   
 [📄 Download My CV](https://github.com/mohamadsalama102/mohamadsalama102/raw/main/MohammedSalamaAwad.pdf)
 
@@ -14,12 +14,11 @@
   
 `DOTNET DEVELOPER - SAHABSOFT · FULL-TIME - Jan 2023 - Present`
  
-- Developing small- and large-scale desktop back-end services.
-- Troubleshooting, repairing defects and maintaining existing products.
-- Identify issues and make necessary modifications.
-- Adjusted software parameters to boost performance and incorporate new features.
- 
-`Skills: DevExpress, Microsoft SQL Server LINQ, OOP, EF core, WinForms, Entity Framework`
+-	I Recently involved in the transition of legacy desktop systems to web-based platforms using ASP.NET Core, contributing to architecture design, code refactoring, and API development.
+-	Designed and developed scalable desktop applications and back-end services.
+-	Fixed software bugs and enhanced performance of existing systems.
+-	Collaborated with stakeholders to understand and implement new features.
+`Skills: DevExpress, Microsoft SQL Server LINQ, MediatR, FluentValidation, AutoMapper, OOP, EF core, WinForms, Entity Framework, Xunit, Moq `
  
 `FREELANCE – IN REMOTE WEBSITE- 2018 - Present`
 - Analyzed requirements and designed, developed, and implemented software applications for multiple websites.
